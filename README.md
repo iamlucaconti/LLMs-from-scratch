@@ -54,6 +54,6 @@ These constraints are not drawbacks but **deliberate trade-offs** to keep the im
 ## Additional Readings
 
 * Bishop, C. M. (2025). *Deep Learning: Foundations and Concepts*. Springer. [Book page](https://link.springer.com/book/10.1007/978-3-031-45468-4)  
-* Scardapane, S. (2023). *Alice's Adventures in a Differentiable Wonderland*. Springer. [Book page](https://www.sscardapane.it/alice-book/)  
+* Scardapane, S. (2023). *Alice's Adventures in a Differentiable Wonderland*. [Book page](https://www.sscardapane.it/alice-book/)  
 
 
